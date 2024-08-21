@@ -3,7 +3,6 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
-- [Simulation](#simulation)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -27,8 +26,6 @@ This project demonstrates the interfacing and control of the following periphera
 - **GPIO**: General-purpose input/output for controlling LEDs, buttons, and other digital signals.
 - **EXTI**: External interrupts for responsive and efficient event-driven programming.
 - **Clock System**: Configuration and management of the microcontroller’s clock system for optimal performance.
-
-## Simulation
 
 
 ## Prerequisites
