@@ -1,17 +1,15 @@
 # Valeo-Labs-STM32F401VE
 
+Welcome to the **Valeo-Labs-STM32F401VE** project! This repository contains C code examples for interfacing with various peripherals using the STM32F401VE microcontroller. The project is designed to provide a comprehensive guide to working with essential hardware components and communication protocols, making it an ideal resource for embedded systems enthusiasts and developers.
+
+
 ## Table of Contents
-- [Introduction](#introduction)
 - [Project Overview](#project-overview)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Acknowledgments](#acknowledgments)
 
-
-
-## Introduction
-Welcome to the **Valeo-Labs-STM32F401VE** project! This repository contains C code examples for interfacing with various peripherals using the STM32F401VE microcontroller. The project is designed to provide a comprehensive guide to working with essential hardware components and communication protocols, making it an ideal resource for embedded systems enthusiasts and developers.
 
 ## Project Overview
 
