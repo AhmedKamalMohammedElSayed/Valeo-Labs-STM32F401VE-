@@ -1,0 +1,4 @@
+main.c:12:5:main	16	static
+main.c:54:6:Seven_Segment_Display	24	static
+main.c:150:6:delay	24	static
+main.c:154:6:handleButtonPress	24	static

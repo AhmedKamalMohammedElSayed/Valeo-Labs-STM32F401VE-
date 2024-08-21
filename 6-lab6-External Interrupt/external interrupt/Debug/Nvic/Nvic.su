@@ -1,0 +1,2 @@
+Nvic.c:18:6:Nvic_EnableInterrupt	16	static
+Nvic.c:24:6:Nvic_DisableInterrupt	16	static

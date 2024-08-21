@@ -1,0 +1,4 @@
+external_interrupt.c:39:6:Exti_Init	24	static
+external_interrupt.c:94:6:Exti_Enable	16	static
+external_interrupt.c:100:6:Exti_Disable	16	static
+external_interrupt.c:105:6:Exti_HandlerPendingFlag	16	static

@@ -1,0 +1,8 @@
+"Gpio/Gpio.o"
+"Nvic/Nvic.o"
+"RCC/Rcc.o"
+"Src/main.o"
+"Src/syscalls.o"
+"Src/sysmem.o"
+"Startup/startup_stm32f401vehx.o"
+"external_interrupt/external_interrupt.o"
