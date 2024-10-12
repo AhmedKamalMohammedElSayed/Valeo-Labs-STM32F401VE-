@@ -38,7 +38,7 @@ To work with this project, you will need:
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/Valeo-Labs-STM32F401VE.git
+   git clone https://github.com/AhmedKamalMohammedElSayed/Valeo-Labs-STM32F401VE.git
     ```
 
 2. Open the project in **STM32CubeIDE** or your preferred IDE.
