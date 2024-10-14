@@ -1,0 +1,3 @@
+Nvic.c:16:6:Nvic_EnableInterrupt	16	static
+Nvic.c:26:13:Nvic_DisableInterrupt	16	static
+Nvic.c:35:6:Nvic_SetPriority	32	static

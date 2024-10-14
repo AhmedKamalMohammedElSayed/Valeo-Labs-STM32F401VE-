@@ -1,0 +1,4 @@
+Gpio.c:14:6:Gpio_ConfigPin	32	static
+Gpio.c:34:13:Gpio_WritePin	24	static
+Gpio.c:43:14:Gpio_ReadPin	24	static
+Gpio.c:52:6:Gpio_TogglePin	24	static

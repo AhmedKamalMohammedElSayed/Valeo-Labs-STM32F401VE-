@@ -1,0 +1,2 @@
+Timer.c:13:6:TIM2_Init	8	static
+Timer.c:40:8:TIM2_IRQHandler	4	static
